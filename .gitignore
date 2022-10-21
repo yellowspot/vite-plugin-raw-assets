@@ -5,3 +5,4 @@
 
 # production
 *.tgz
+dist

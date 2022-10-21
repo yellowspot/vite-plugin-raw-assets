@@ -6,8 +6,8 @@ Usefull to deal with third-party libraries that expect to import assets as strin
 
 It's similar to [raw-loader](https://www.npmjs.com/package/raw-loader) in Webpack.
 
-[![NPM version](https://img.shields.io/npm/v/vite-plugin-raw-assets.svg)](https://npmjs.org/package/vite-plugin-raw-assets)
-[![NPM Downloads](https://img.shields.io/npm/dm/vite-plugin-raw-assets.svg)](https://npmjs.org/package/vite-plugin-raw-assets)
+[![NPM version](https://img.shields.io/npm/v/vite-plugin-raw-assets.svg)](https://www.npmjs.com/package/vite-plugin-raw-assets)
+[![NPM Downloads](https://img.shields.io/npm/dm/vite-plugin-raw-assets.svg)](https://www.npmjs.com/package/vite-plugin-raw-assets)
 
 ## Why vite-plugin-raw-assets
 

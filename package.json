@@ -2,6 +2,7 @@
   "name": "vite-plugin-raw-assets",
   "version": "0.0.1",
   "description": "Vite plugin to load assets as strings",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

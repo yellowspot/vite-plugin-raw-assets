@@ -6,7 +6,7 @@ export default defineConfig({
   build: {
     minify: false,
     lib: {
-      entry: resolve(__dirname, 'src/index.js'),
+      entry: resolve(__dirname, 'src/index.ts'),
       fileName: 'index',
       formats: ["cjs", "es"],
     },

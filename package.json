@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-raw-assets",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Vite plugin to load assets as strings",
   "main": "index.js",
   "scripts": {

@@ -36,7 +36,7 @@ npm i vite-plugin-raw-assets -D
 vite.config.ts
 
 ```js
-import rawAssets from 'vite-plugin-raw-assets'
+import rawAssets from 'vite-plugin-raw-assets';
 
 export default {
   plugins: [
